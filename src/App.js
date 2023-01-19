@@ -7,11 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< Updated upstream
           Edit <code>src/ntrvagwedwxa'rofpfeafe tgrwg   五邵阳p.js</code> and save to reload.
-=======
-          Edit <code>Holao</code> and save to reload.
->>>>>>> Stashed changes
         </p>
         <a
           className="App-link"
